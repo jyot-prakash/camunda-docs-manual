@@ -69,7 +69,7 @@ A JSON object with the following properties: (at least an empty JSON object `{}`
   </tr>
   <tr>
     <td>businessKey</td>
-    <td>The business key the process instance is to be initialized with.
+    <td>The business key of the process instance is to be initialized with.
         The business key uniquely identifies the process instance in the context of the given process definition.</td>
   </tr>
   <tr>
